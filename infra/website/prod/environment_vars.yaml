@@ -1,0 +1,4 @@
+env: "prod"
+profile: "drak"
+account_id: "864899848213"
+remote_state_bucket: "864899848213-internal-infrastructure"
